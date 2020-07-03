@@ -1,3 +1,9 @@
+As a new user, I was able to register an account.
+So that I was able to access our product service. As a logged-out user, I was able to sign in to a website.
+So I found access to my personal profile. As an admin, I was able to host my application on AWS EC2. 
+
+In this project, the following activities were performed:
+
 Backend API for Sign Up
 Registration page contains a form with the following fields: Email address, User name, Password, Submit, the email field must contain a valid email address, and the password field must contain at least one capital letter, lower case letter and number, Submitting the registration page form will create a new account
 Backend API for Sign In
